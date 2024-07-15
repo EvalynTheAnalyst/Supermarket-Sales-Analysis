@@ -24,9 +24,11 @@ Customer Demographics: Most customers purchase using cash
 Shopping Patterns: Peak shopping days are Fridays and Tuesday in the Afternoon.
 
 Top-Performing Supermarket: TOP 5 SELLING SUPERMARKETS
-1. Naivas                                      4. Karrymatt
-2. Quiskmart                               5.Cleanshelf
+1. Naivas
+2. Quiskmart
 3. Tumaini
+4. Karrymatt
+5. Cleanshelf
 
 
 Recommendations:
