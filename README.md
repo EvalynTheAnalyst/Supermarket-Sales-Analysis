@@ -2,7 +2,7 @@
 
 
 Introduction:
-This analysis evaluates the sales performance of all Supermarket in Kenya from January 2016 to December 2017. The aim is to identify key trends, understand customer behavior, and provide actionable insights to enhance sales strategies.
+This analysis evaluates the sales performance of all Supermarket in Kenya from January 2016 to December 2017. The aim is to identify key trends, understand customer behavior, and provide actionable insights to enhance sales strategies. The analysis has been done in excel.
 
 Data Overview:
 The sales data is a sample dataset that shows consumers purchase behaviour.
