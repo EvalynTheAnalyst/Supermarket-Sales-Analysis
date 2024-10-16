@@ -9,7 +9,7 @@ This project features an interactive Excel dashboard developed to analyze superm
 
 
 ## Data Source
-The data used in this project is KENYA SUPERMARKET SALES ANALYSIS.xlsx
+The data used in this project is[ Supermarket-Sales-Analysis/KENYA SUPERMARKET SALES ANALYSIS.xlsx](https://github.com/EvalynTheAnalyst/Supermarket-Sales-Analysis/blob/main/KENYA%20SUPERMARKET%20SALES%20ANALYSIS.xlsx)
 
 ## Project Overview
 The goal of this project is to analyze the supermarket sales dataset to derive actionable insights related to consumer behavior, sales performance per supermarket chain, category, and location, peak selling hours and days, product placement, and targeted promotions.
@@ -218,7 +218,7 @@ The analysis of the supermarket sales data in Kenya provides valuable insights i
 ### How to Use
 
 1. **Download the Excel File:**
-   - Access the file from this repository KENYA SUPERMARKET SALES ANALYSIS.xlsx
+   - Access the file from this repository[ KENYA SUPERMARKET SALES ANALYSIS.xlsx](https://github.com/EvalynTheAnalyst/Supermarket-Sales-Analysis/blob/main/KENYA%20SUPERMARKET%20SALES%20ANALYSIS.xlsx)
    
 2. **Open the File:**
    - Open the file in Microsoft Excel to view the interactive dashboard and detailed analysis.
