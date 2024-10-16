@@ -9,7 +9,7 @@ This project features an interactive Excel dashboard developed to analyze superm
 
 
 ## Data Source
-The data used in this project is [here](https://github.com/nyarotoyi/excel-portfolio/blob/main/Supermarket-Sales-Dashboard/assignment.xlsx).
+The data used in this project is KENYA SUPERMARKET SALES ANALYSIS.xlsx
 
 ## Project Overview
 The goal of this project is to analyze the supermarket sales dataset to derive actionable insights related to consumer behavior, sales performance per supermarket chain, category, and location, peak selling hours and days, product placement, and targeted promotions.
@@ -217,7 +217,7 @@ The analysis of the supermarket sales data in Kenya provides valuable insights i
 ### How to Use
 
 1. **Download the Excel File:**
-   - Access the file from this repository [here](https://github.com/nyarotoyi/excel-portfolio/blob/main/Supermarket-Sales-Dashboard/assignment.xlsx).
+   - Access the file from this repository KENYA SUPERMARKET SALES ANALYSIS.xlsx
    
 2. **Open the File:**
    - Open the file in Microsoft Excel to view the interactive dashboard and detailed analysis.
@@ -231,7 +231,7 @@ The analysis of the supermarket sales data in Kenya provides valuable insights i
 
 ## Contact Me
 
-Email- zianaodero@gmail.com
+Email- evelynnjagi0@gmail.com
 
-[LINKEDIN](https://www.linkedin.com/in/marice-ziana-a51442146/)
+[LINKEDIN]www.linkedin.com/in/evalyn-njagi-115995168
 
