@@ -79,7 +79,8 @@ In the `Table Design` Ribbon check Total Row (Its in the Table Style Option grou
 
 This will introduce a new row at the end of the dataset that allows us to perform basic statistical summaries to our data
 
-![TotalRow](https://github.com/nyarotoyi/excel-portfolio/blob/main/Supermarket-Sales-Dashboard/totalrow.jpg)
+<img width="917" alt="image" src="https://github.com/user-attachments/assets/e278a638-461e-4a56-a029-bff048660d70">
+
 
 **Initial Insights**
 
